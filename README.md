@@ -1,4 +1,4 @@
 # vault
 vault dev platform
-Building, initializing and unsealing Vault
+### Building, initializing and unsealing Vault ###
 
