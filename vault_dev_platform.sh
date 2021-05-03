@@ -82,7 +82,6 @@ docker-compose up -d --build
  
 ### Initilaization ###
 docker exec -it vault_1.4.1 vault operator init > ~/vault/config/genesis
-#docker exec -it vault:1.4.1 vault operator init > vault/config/genesis
  
 ### Unsealing ###
 for i in 1 2 3 ;
